@@ -1,0 +1,35 @@
+Jonathan Barnes and Shane Cincotta Lab 5
+
+Hash function one with Collision function 1
+-collisions by hashing = 7535
+-collisions by collision handle = 4625314
+
+Hash function one with Collision function 2
+collision by hashing = 7507
+collision by collision handle = 81362
+
+Hash function two with Collision function 1
+-collisions by hashing = 9473
+-collisions by collision handle = 5869328
+
+Hash function two with Collision function 2
+-collisions by hashing = 9997
+-collisions by collision handle = 120415
+
+6 fave quotes
+
+I'll make you like them, Sam-I-am. Would brag, We're all gummed. So 
+he stuck only could sprain both your arms may leak. On you 
+
+the Whos would eat them i do not like the fish
+
+The fat one was the roast beast! He ordered nine turtles and, 
+maybe, all the things I do as fast as you please
+
+my Super-Axe-Hacker which whacked off his fib fooled the throne in his 
+sled, Packed it came back! I yelled at all, in a lie
+
+you right on TV. Except when you're too small sound wasn't sad! 
+
+Congratulations! Today is dreary. They'll walk on my poor Swomee-Swans... why, they would 
+not like our house and we stand here, from coming!
